@@ -36,5 +36,5 @@ By handling these three cases separately, you specify precisely which operations
 performance and offers greater control over transitions. For example, with a bar chart you might initialize entering 
 bars using the old scale, and then transition entering bars to the new scale along with the updating and exiting bars.
 
-More here [Selections enter](https://github.com/mbostock/d3/wiki/Selections#enter)
+More here [Selections enter](https://github.com/mbostock/d3/wiki/Selections#enter)  
 More here [Selections exit](https://github.com/mbostock/d3/wiki/Selections#exit)
