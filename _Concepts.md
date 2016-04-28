@@ -1,1 +1,1 @@
-####Selection - an array of elements
+<b>Selection</b> - an array of elements
